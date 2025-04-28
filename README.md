@@ -1,4 +1,4 @@
-# PowerBI_Electricity_production_evolution_of_three_superpowers
+# Electricity production evolution of three superpowers
 Project for Engeto Academy Certification - Electricity production evolution of three superpowers
 
 author: Michal Obdržálek
