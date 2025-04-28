@@ -3,6 +3,8 @@ Project for Engeto Academy Certification - Electricity production evolution of t
 
 author: Michal Obdržálek
 
+discord: raz8x
+
 This Power BI dashboard visualizes the evolution of electricity production types over time, focusing on the growth of renewable energy sources and their impact on global energy production. The project includes various visualizations, including donut charts, per capita comparisons, and energy production metrics for the EU, China, and the USA.
 
 Features
