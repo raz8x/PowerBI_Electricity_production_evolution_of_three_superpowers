@@ -15,3 +15,5 @@ Per Capita Energy Production: Compares renewable energy production per capita be
 Interactive Navigation: Utilizes Bookmarks and Buttons to switch between different views, providing a dynamic and interactive user experience.
 
 Data Insights: Highlights significant differences in energy production between the EU and the USA, including a deep dive into pure renewable days per region.
+
+Data Sources: eurostat, ourworldindata.org
